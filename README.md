@@ -1,4 +1,4 @@
-# WEB STUDT (Front-End Introductory)
+# WEB STUDY (Front-End Introductory)
 
 ### First Page
 
