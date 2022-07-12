@@ -71,6 +71,12 @@ header .headerIcons .fa-search {
   margin-right: var(--spacing);
 }
 
+header .headerIcons a {
+  text-decoration: none;
+  color: var(--white-color);
+  margin-right: var(--spacing);
+}
+
 /* Video Player */
 .videos {
   background-color: var(--black-color);
